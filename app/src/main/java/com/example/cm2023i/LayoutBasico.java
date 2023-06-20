@@ -14,6 +14,12 @@ public class LayoutBasico extends AppCompatActivity {
         setContentView(R.layout.activity_layout_basico);
     }
 
+    public void Opcion1(View view)
+    {
+        Intent intent = new Intent(this, TextoBasico1.class);
+        startActivity(intent);
+    }
+
     public void Volver(View view)
     {
         Intent intent = new Intent(this, MainActivity.class);

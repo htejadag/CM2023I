@@ -2,6 +2,7 @@ package com.example.cm2023i;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -28,5 +29,11 @@ public class TextoBasico1 extends AppCompatActivity {
     {
         String msg = txt1.getText() + " - " + txt2.getText() + " - " + txt3.getText();
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
+    }
+
+    public void Volver(View view)
+    {
+        Intent intent = new Intent(this, LayoutBasico.class);
+        startActivity(intent);
     }
 }

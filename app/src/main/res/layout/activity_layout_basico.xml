@@ -29,6 +29,7 @@
             android:id="@+id/btn1_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="Opcion1"
             android:text="@string/btn1_1_text" />
 
         <Button
