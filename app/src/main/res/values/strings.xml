@@ -13,9 +13,10 @@
 
             <!-- Recursos de controles TextoBasico1 -->
                 <!-- TextViews -->
-                <string name="tv1_1_1">Ingrese un usuario</string>
-                <string name="tv1_1_2">Ingrese un password</string>
-                <string name="tv1_1_3">Ingrese un código de 4 dígitos</string>
+                <string name="tv1_1_1">Texto básico 1</string>
+                <string name="tv1_1_2">Ingrese un usuario</string>
+                <string name="tv1_1_3">Ingrese un password</string>
+                <string name="tv1_1_4">Ingrese un código de 4 dígitos</string>
                 <!-- Text -->
                 <string name="txt1_1_1">Usuario</string>
                 <string name="txt1_1_2">Password</string>
