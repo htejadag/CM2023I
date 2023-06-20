@@ -6,41 +6,59 @@
     <string name="btn2_text">Controles intermedios</string>
     <string name="btn3_text">Controles avanzados</string>
 
-        <!-- Recursos de botones layout básico-->
-        <string name="tv1_1">Menú controles básicos</string>
-        <string name="btn1_1_text">Ejemplos text 1</string>
-        <string name="btn1_2_text">Ejemplos text 2</string>
-        <string name="btn1_3_text">Ejemplos text 3</string>
-        <string name="btn1_4_text">Ejemplos radiobutton 3</string>
-        <string name="btn1_5_text">Ejemplos checkbox 3</string>
-        <string name="btn1_0_text">Volver</string>
+    <!-- Recursos de botones layout básico-->
+    <string name="tv1_1">Menú controles básicos</string>
+    <string name="btn1_1_text">Ejemplos text 1</string>
+    <string name="btn1_2_text">Ejemplos text 2</string>
+    <string name="btn1_3_text">Ejemplos text 3</string>
+    <string name="btn1_4_text">Ejemplos radiobutton</string>
+    <string name="btn1_5_text">Ejemplos checkbox</string>
+    <string name="btn1_0_text">Volver</string>
 
-            <!-- Recursos de controles TextoBasico1 -->
-                <!-- TextViews -->
-                <string name="tv1_1_1">Texto básico 1</string>
-                <string name="tv1_1_2">Ingrese un usuario</string>
-                <string name="tv1_1_3">Ingrese un password</string>
-                <string name="tv1_1_4">Ingrese un código de 4 dígitos</string>
-                <!-- Text -->
-                <string name="txt1_1_1">Usuario</string>
-                <string name="txt1_1_2">Password</string>
-                <string name="txt1_1_3">Código</string>
-                <!-- Buttons -->
-                <string name="btn1_1_1_text">Mostrar</string>
-                <string name="btn1_1_0_text">Volver</string>
+    <!-- Recursos de botones layout intermedio-->
+    <string name="tv2_1">Menú controles intermedios</string>
+    <string name="btn2_1_text">Ejemplos 1</string>
+    <string name="btn2_2_text">Ejemplos 2</string>
+    <string name="btn2_3_text">Ejemplos 3</string>
+    <string name="btn2_4_text">Ejemplos 4</string>
+    <string name="btn2_5_text">Ejemplos 5</string>
+    <string name="btn2_0_text">Volver</string>
 
-            <!-- Recursos de controles TextoBasico2 -->
-                <!-- TextViews -->
-                <string name="tv1_2_1">Ingrese un usuario</string>
-                <string name="tv1_2_2">Ingrese un password</string>
-                <string name="tv1_2_3">Ingrese un código de 4 dígitos</string>
-                <!-- Text -->
-                <string name="txt1_2_1">Usuario</string>
-                <string name="txt1_2_2">Password</string>
-                <string name="txt1_2_3">Código</string>
-                <!-- Buttons -->
-                <string name="btn1_2_1_text">Mostrar</string>
-                <string name="btn1_2_0_text">Volver</string>
+    <!-- Recursos de botones layout avanzado-->
+    <string name="tv3_1">Menú controles avanzados</string>
+    <string name="btn3_1_text">Ejemplos text 1</string>
+    <string name="btn3_2_text">Ejemplos text 2</string>
+    <string name="btn3_3_text">Ejemplos text 3</string>
+    <string name="btn3_4_text">Ejemplos radiobutton 3</string>
+    <string name="btn3_5_text">Ejemplos checkbox 3</string>
+    <string name="btn3_0_text">Volver</string>
+
+    <!-- Recursos de controles TextoBasico1 -->
+    <!-- TextViews -->
+    <string name="tv1_1_1">Texto básico 1</string>
+    <string name="tv1_1_2">Ingrese un usuario</string>
+    <string name="tv1_1_3">Ingrese un password</string>
+    <string name="tv1_1_4">Ingrese un código de 4 dígitos</string>
+    <!-- Text -->
+    <string name="txt1_1_1">Usuario</string>
+    <string name="txt1_1_2">Password</string>
+    <string name="txt1_1_3">Código</string>
+    <!-- Buttons -->
+    <string name="btn1_1_1_text">Mostrar</string>
+    <string name="btn1_1_0_text">Volver</string>
+
+    <!-- Recursos de controles TextoBasico2 -->
+    <!-- TextViews -->
+    <string name="tv1_2_1">Ingrese un usuario</string>
+    <string name="tv1_2_2">Ingrese un password</string>
+    <string name="tv1_2_3">Ingrese un código de 4 dígitos</string>
+    <!-- Text -->
+    <string name="txt1_2_1">Usuario</string>
+    <string name="txt1_2_2">Password</string>
+    <string name="txt1_2_3">Código</string>
+    <!-- Buttons -->
+    <string name="btn1_2_1_text">Mostrar</string>
+    <string name="btn1_2_0_text">Volver</string>
 
 
 </resources>

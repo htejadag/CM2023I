@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void ControlesIntermedios(View view)
     {
-
+        Intent intent = new Intent(this, LayoutIntermedio.class);
+        startActivity(intent);
     }
 
     public void ControlesAvanzados(View view)
