@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CM2023I</string>
+    <!-- Recursos de botones -->
+    <string name="btn1_text">Controles básicos</string>
+    <string name="btn2_text">Controles intermedios</string>
+    <string name="btn3_text">Controles avanzados</string>
 </resources>
