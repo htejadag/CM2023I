@@ -8,13 +8,22 @@
 
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="409dp"
-        android:layout_height="607dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
         android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv1_1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/tv1_1"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/btn1_1"
@@ -34,24 +43,13 @@
             android:layout_height="wrap_content"
             android:text="@string/btn1_3_text" />
 
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="411dp"
-        android:layout_height="51dp"
-        android:layout_marginTop="1dp"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.066"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-        app:layout_constraintVertical_bias="1.0">
-
         <Button
             android:id="@+id/btn1_0"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="Volver"
             android:text="@string/btn1_0_text" />
+
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

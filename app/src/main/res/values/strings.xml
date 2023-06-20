@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">CM2023I</string>
     <!-- Recursos de botones principales-->
+    <string name="tv1">Menú Principal</string>
     <string name="btn1_text">Controles básicos</string>
     <string name="btn2_text">Controles intermedios</string>
     <string name="btn3_text">Controles avanzados</string>
 
         <!-- Recursos de botones layout básico-->
+        <string name="tv1_1">Menú Texto básico</string>
         <string name="btn1_1_text">Ejemplos text 1</string>
         <string name="btn1_2_text">Ejemplos text 2</string>
         <string name="btn1_3_text">Ejemplos text 3</string>
