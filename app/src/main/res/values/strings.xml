@@ -60,5 +60,15 @@
     <string name="btn1_2_1_text">Mostrar</string>
     <string name="btn1_2_0_text">Volver</string>
 
+    <!-- Recursos de controles Intermedios 1 -->
+    <!-- TextViews -->
+    <string name="tv2_1_1">Shared Preferences</string>
+    <!-- Text -->
+    <string name="txt2_1_1">Preferencias compartidas</string>
+    <!-- Buttons -->
+    <string name="btn2_1_1_text">Guardar</string>
+    <string name="btn2_1_2_text">Mostrar</string>
+    <string name="btn2_1_0_text">Volver</string>
+
 
 </resources>
