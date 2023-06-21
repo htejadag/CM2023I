@@ -17,7 +17,7 @@
 
     <!-- Recursos de botones layout intermedio-->
     <string name="tv2_1">Menú controles intermedios</string>
-    <string name="btn2_1_text">Ejemplos 1</string>
+    <string name="btn2_1_text">Navegar entre Actividades</string>
     <string name="btn2_2_text">Ejemplos 2</string>
     <string name="btn2_3_text">Ejemplos 3</string>
     <string name="btn2_4_text">Ejemplos 4</string>
