@@ -62,13 +62,26 @@
 
     <!-- Recursos de controles Intermedios 1 -->
     <!-- TextViews -->
-    <string name="tv2_1_1">Shared Preferences</string>
+    <string name="tv2_1_0">Navegar entre actividades</string>
+    <string name="tv2_1_1">Primera Actividad</string>
+    <string name="tv2_1_2">Segunda Actividad</string>
     <!-- Text -->
-    <string name="txt2_1_1">Preferencias compartidas</string>
+    <string name="txt2_1_1">Ingrese un valor</string>
+    <string name="txt2_1_2">Ingrese un valor</string>
     <!-- Buttons -->
-    <string name="btn2_1_1_text">Guardar</string>
-    <string name="btn2_1_2_text">Mostrar</string>
+    <string name="btn2_1_1_text">Siguiente</string>
+    <string name="btn2_1_2_text">Regresar</string>
     <string name="btn2_1_0_text">Volver</string>
+
+    <!-- Recursos de controles Intermedios 2 -->
+    <!-- TextViews -->
+    <string name="tv2_2_1">Shared Preferences</string>
+    <!-- Text -->
+    <string name="txt2_2_1">Preferencias compartidas</string>
+    <!-- Buttons -->
+    <string name="btn2_2_1_text">Guardar</string>
+    <string name="btn2_2_2_text">Mostrar</string>
+    <string name="btn2_2_0_text">Volver</string>
 
 
 </resources>
