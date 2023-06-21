@@ -14,6 +14,12 @@ public class LayoutIntermedio extends AppCompatActivity {
         setContentView(R.layout.activity_layout_intermedio);
     }
 
+    public void Opcion1(View view)
+    {
+        Intent intent = new Intent(this, Actividad1.class);
+        startActivity(intent);
+    }
+
     public void Volver(View view)
     {
         Intent intent = new Intent(this, MainActivity.class);
