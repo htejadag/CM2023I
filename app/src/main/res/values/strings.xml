@@ -13,23 +13,24 @@
     <string name="btn1_3_text">Ejemplos text 3</string>
     <string name="btn1_4_text">Ejemplos radiobutton</string>
     <string name="btn1_5_text">Ejemplos checkbox</string>
+    <string name="btn1_6_text">Ejemplos spinner</string>
     <string name="btn1_0_text">Volver</string>
 
     <!-- Recursos de botones layout intermedio-->
     <string name="tv2_1">Menú controles intermedios</string>
     <string name="btn2_1_text">Navegar entre Actividades</string>
-    <string name="btn2_2_text">Ejemplos 2</string>
-    <string name="btn2_3_text">Ejemplos 3</string>
-    <string name="btn2_4_text">Ejemplos 4</string>
+    <string name="btn2_2_text">Shared Preferences</string>
+    <string name="btn2_3_text">SQLite</string>
+    <string name="btn2_4_text">Sql Server</string>
     <string name="btn2_5_text">Ejemplos 5</string>
     <string name="btn2_0_text">Volver</string>
 
     <!-- Recursos de botones layout avanzado-->
     <string name="tv3_1">Menú controles avanzados</string>
-    <string name="btn3_1_text">Ejemplos text 1</string>
-    <string name="btn3_2_text">Ejemplos text 2</string>
-    <string name="btn3_3_text">Ejemplos text 3</string>
-    <string name="btn3_4_text">Ejemplos radiobutton 3</string>
+    <string name="btn3_1_text">Recycler View</string>
+    <string name="btn3_2_text">Mapas de Google</string>
+    <string name="btn3_3_text">Reproductor de Música</string>
+    <string name="btn3_4_text">Tomar Fotografías</string>
     <string name="btn3_5_text">Ejemplos checkbox 3</string>
     <string name="btn3_0_text">Volver</string>
 
