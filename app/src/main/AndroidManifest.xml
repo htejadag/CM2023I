@@ -22,7 +22,7 @@
             android:name=".Prueba"
             android:exported="false" />
         <activity
-            android:name=".Alcamenamiento1"
+            android:name=".Almacenamiento1"
             android:exported="false" />
         <activity
             android:name=".LayoutIntermedio"

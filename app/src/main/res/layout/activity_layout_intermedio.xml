@@ -36,6 +36,7 @@
             android:id="@+id/btn2_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="Opcion2"
             android:text="@string/btn2_2_text" />
 
         <Button

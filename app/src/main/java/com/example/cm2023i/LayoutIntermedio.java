@@ -20,6 +20,12 @@ public class LayoutIntermedio extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void Opcion2(View view)
+    {
+        Intent intent = new Intent(this, Almacenamiento1.class);
+        startActivity(intent);
+    }
+
     public void Volver(View view)
     {
         Intent intent = new Intent(this, MainActivity.class);

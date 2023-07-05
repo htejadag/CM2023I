@@ -77,8 +77,11 @@
     <!-- Recursos de controles Intermedios 2 -->
     <!-- TextViews -->
     <string name="tv2_2_1">Shared Preferences</string>
+    <string name="tv2_2_2">Ejemplo con shared preferences</string>
+    <string name="tv2_2_3">Ejemplo sin shared preferences</string>
     <!-- Text -->
-    <string name="txt2_2_1">Preferencias compartidas</string>
+    <string name="txt2_2_1">Ingrese un valor</string>
+    <string name="txt2_2_2">Ingrese otro valor</string>
     <!-- Buttons -->
     <string name="btn2_2_1_text">Guardar</string>
     <string name="btn2_2_2_text">Mostrar</string>
